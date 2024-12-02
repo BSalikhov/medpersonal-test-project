@@ -1,0 +1,40 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "Иван",
+      "category": "doctor",
+      "department": "cardiology"
+    },
+    {
+      "id": "2",
+      "name": "Евгений",
+      "category": "doctor",
+      "department": "surgeon"
+    }
+  ],
+  "nurses": [
+    {
+      "id": "1",
+      "name": "Елена",
+      "category": "nurse",
+      "department": "cardiology"
+    },
+    {
+      "id": "2",
+      "name": "Екатерина",
+      "category": "nurse",
+      "department": "surgeon"
+    }
+  ],
+  "departmentsOptions": [
+    {
+      "id": "cardiology",
+      "name": "Кардиология"
+    },
+    {
+      "id": "surgeon",
+      "name": "Хирургия"
+    }
+  ]
+}

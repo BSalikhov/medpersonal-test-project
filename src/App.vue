@@ -1,11 +1,10 @@
 <script setup lang="ts">
+import Navigation from './components/Navigation.vue';
+
 </script>
 
 <template>
-  <div class="text-4xl font-bold text-center">
-    Main Page
-  </div>
+  <Navigation />
+  <router-view></router-view>
 </template>
 
-<style scoped>
-</style>
